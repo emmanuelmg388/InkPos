@@ -6,5 +6,11 @@ namespace InkPos
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            FormPruebaDB formConexion = new FormPruebaDB();
+            formConexion.ShowDialog(); 
+        }
     }
 }

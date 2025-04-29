@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KXJull3xY6w=",
+  "dgSpecHash": "xEcgTmMFcDo=",
   "success": true,
   "projectFilePath": "C:\\Users\\EMMANUEL\\source\\repos\\InkPos\\InkPos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\EMMANUEL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\EMMANUEL\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\EMMANUEL\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
