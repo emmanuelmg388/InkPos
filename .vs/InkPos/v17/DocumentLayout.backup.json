@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{5A17FDD2-4385-409F-8DDC-B58729CD2BE6}|InkPos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5A17FDD2-4385-409F-8DDC-B58729CD2BE6}|InkPos.csproj|c:\\users\\emmanuel\\source\\repos\\inkpos\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A17FDD2-4385-409F-8DDC-B58729CD2BE6}|InkPos.csproj|solutionrelative:productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A17FDD2-4385-409F-8DDC-B58729CD2BE6}|InkPos.csproj|c:\\users\\emmanuel\\source\\repos\\inkpos\\productosdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A17FDD2-4385-409F-8DDC-B58729CD2BE6}|InkPos.csproj|solutionrelative:productosdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A17FDD2-4385-409F-8DDC-B58729CD2BE6}|InkPos.csproj|c:\\users\\emmanuel\\source\\repos\\inkpos\\formpruebadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A17FDD2-4385-409F-8DDC-B58729CD2BE6}|InkPos.csproj|solutionrelative:formpruebadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,6 +74,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosDatos.cs",
+              "DocumentMoniker": "C:\\Users\\EMMANUEL\\source\\repos\\InkPos\\ProductosDatos.cs",
+              "RelativeDocumentMoniker": "ProductosDatos.cs",
+              "ToolTip": "C:\\Users\\EMMANUEL\\source\\repos\\InkPos\\ProductosDatos.cs",
+              "RelativeToolTip": "ProductosDatos.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:07:55.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\EMMANUEL\\source\\repos\\InkPos\\Productos.cs",
+              "RelativeDocumentMoniker": "Productos.cs",
+              "ToolTip": "C:\\Users\\EMMANUEL\\source\\repos\\InkPos\\Productos.cs",
+              "RelativeToolTip": "Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:38:17.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\EMMANUEL\\source\\repos\\InkPos\\Form1.cs",
@@ -79,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FormPruebaDB.cs",
               "DocumentMoniker": "C:\\Users\\EMMANUEL\\source\\repos\\InkPos\\FormPruebaDB.cs",
               "RelativeDocumentMoniker": "FormPruebaDB.cs",
@@ -92,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FormPruebaDB.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\EMMANUEL\\source\\repos\\InkPos\\FormPruebaDB.cs",
               "RelativeDocumentMoniker": "FormPruebaDB.cs",
@@ -103,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ConexionDB.cs",
               "DocumentMoniker": "C:\\Users\\EMMANUEL\\source\\repos\\InkPos\\ConexionDB.cs",
               "RelativeDocumentMoniker": "ConexionDB.cs",
@@ -115,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\EMMANUEL\\source\\repos\\InkPos\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
